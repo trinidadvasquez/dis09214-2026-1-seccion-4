@@ -75,36 +75,36 @@ si estudiante rinde examen, la nota final del curso se calcula como `0.7 * NP + 
 
 ## estudiantes
 
-| n  | github                                  | editor de p5.js                              |
-| -- | --------------------------------------- | -------------------------------------------- |
-| 01 | <https://github.com/FlorenciaAlvarado>  | <https://editor.p5js.org/FlorenciaAlvarado>  |
-| 02 | <https://github.com/coteeee>            | <https://editor.p5js.org/coteeee>            |
-| 03 | <https://github.com/Isidora-Caceres>    | <https://editor.p5js.org/Isidora-Caceres>    |
-| 04 | <https://github.com/FranciscaCastroo>   | <https://editor.p5js.org/FranciscaCastroo>   |
-| 05 | <https://github.com/cattacayuela>       | <https://editor.p5js.org/cattacayuela>       |
-| 06 | <https://github.com/rafispiwis>         | <https://editor.p5js.org/rafispiwis>         |
-| 07 | <https://github.com/lunacornejo-arch>   | <https://editor.p5js.org/lunacornejo-arch>   |
-| 08 | <https://github.com/sofiacuneoo>        | <https://editor.p5js.org/sofiacuneoo>        |
-| 09 | <https://github.com/amanda-delafuente>  | <https://editor.p5js.org/amanda-delafuente>  |
-| 10 | <https://github.com/valentinadevia-png> | <https://editor.p5js.org/valentinadevia-png> |
-| 11 | <https://github.com/valbelen>           | <https://editor.p5js.org/valbelen>           |
-| 12 | <https://github.com/belofii>            | <https://editor.p5js.org/belofii>            |
-| 13 | <https://github.com/Valentinafredesp>   | <https://editor.p5js.org/Valentinafredesp>   |
-| 14 | <https://github.com/ariadguerrasoto>    | <https://editor.p5js.org/ariadguerrasoto>    |
-| 15 | <https://github.com/millaray-huichaman> | <https://editor.p5js.org/millaray-huichaman> |
-| 16 | <https://github.com/Violeta2006>        | <https://editor.p5js.org/Violeta2006>        |
-| 17 | <https://github.com/apuntoli>           | <https://editor.p5js.org/apuntoli>           |
-| 18 | <https://github.com/sarapaiv>           | <https://editor.p5js.org/sarapaiv>           |
-| 19 | <https://github.com/JosefaPozo>         | <https://editor.p5js.org/JosefaPozo>         |
-| 20 | <https://github.com/mavaa05>            |  <https://editor.p5js.org/mavaa05>           |
-| 21 | <https://github.com/rominareyes1>       |  <https://editor.p5js.org/rominareyes1>      |
-| 22 | <https://github.com/K4TIUSKA>           |  <https://editor.p5js.org/K4TIUSKA>          |
-| 23 | <https://github.com/Kaela-Moraga>       | <https://editor.p5js.org/Kaela-Moraga>       |
-| 24 | <https://github.com/81194in>            | <https://editor.p5js.org/81194in>            |
-| 25 | <https://github.com/matitello>          | <https://editor.p5js.org/matitello>          |
-| 26 | <https://github.com/trinidadvasquez>    |  <https://editor.p5js.org/trinidadvasquez>   |
-| 27 | <https://github.com/sofifigs>           |  <https://editor.p5js.org/sofifigs>          |
-| 28 | TBD                                     | TBD                                          |
+| n  | github                                  | editor de p5.js                                       |
+| -- | --------------------------------------- | ----------------------------------------------------- |
+| 01 | <https://github.com/FlorenciaAlvarado>  | <https://editor.p5js.org/FlorenciaAlvarado/sketches>  |
+| 02 | <https://github.com/coteeee>            | <https://editor.p5js.org/coteeee/sketches>            |
+| 03 | <https://github.com/Isidora-Caceres>    | <https://editor.p5js.org/Isidora-Caceres/sketches>    |
+| 04 | <https://github.com/FranciscaCastroo>   | <https://editor.p5js.org/FranciscaCastroo/sketches>   |
+| 05 | <https://github.com/cattacayuela>       | <https://editor.p5js.org/cattacayuela/sketches>       |
+| 06 | <https://github.com/rafispiwis>         | <https://editor.p5js.org/rafispiwis/sketches>         |
+| 07 | <https://github.com/lunacornejo-arch>   | <https://editor.p5js.org/lunacornejo-arch/sketches>   |
+| 08 | <https://github.com/sofiacuneoo>        | <https://editor.p5js.org/sofiacuneoo/sketches>        |
+| 09 | <https://github.com/amanda-delafuente>  | <https://editor.p5js.org/amanda-delafuente/sketches>  |
+| 10 | <https://github.com/valentinadevia-png> | <https://editor.p5js.org/valentinadevia-png/sketches> |
+| 11 | <https://github.com/valbelen>           | <https://editor.p5js.org/valbelen/sketches>           |
+| 12 | <https://github.com/belofii>            | <https://editor.p5js.org/belofii/sketches>            |
+| 13 | <https://github.com/Valentinafredesp>   | <https://editor.p5js.org/Valentinafredesp/sketches>   |
+| 14 | <https://github.com/ariadguerrasoto>    | <https://editor.p5js.org/ariadguerrasoto/sketches>    |
+| 15 | <https://github.com/millaray-huichaman> | <https://editor.p5js.org/millaray-huichaman/sketches> |
+| 16 | <https://github.com/Violeta2006>        | <https://editor.p5js.org/Violeta2006/sketches>        |
+| 17 | <https://github.com/apuntoli>           | <https://editor.p5js.org/apuntoli/sketches>           |
+| 18 | <https://github.com/sarapaiv>           | <https://editor.p5js.org/sarapaiv/sketches>           |
+| 19 | <https://github.com/JosefaPozo>         | <https://editor.p5js.org/JosefaPozo/sketches>         |
+| 20 | <https://github.com/mavaa05>            |  <https://editor.p5js.org/mavaa05/sketches>           |
+| 21 | <https://github.com/rominareyes1>       |  <https://editor.p5js.org/rominareyes1/sketches>      |
+| 22 | <https://github.com/K4TIUSKA>           |  <https://editor.p5js.org/K4TIUSKA/sketches>          |
+| 23 | <https://github.com/Kaela-Moraga>       | <https://editor.p5js.org/Kaela-Moraga/sketches>       |
+| 24 | <https://github.com/81194in>            | <https://editor.p5js.org/81194in/sketches>            |
+| 25 | <https://github.com/matitello>          | <https://editor.p5js.org/matitello/sketches>          |
+| 26 | <https://github.com/trinidadvasquez>    |  <https://editor.p5js.org/trinidadvasquez/sketches>   |
+| 27 | <https://github.com/sofifigs>           |  <https://editor.p5js.org/sofifigs/sketches>          |
+| 28 | TBD                                     | TBD                                                   |
 
 ## bibliografía
 
